@@ -25,6 +25,7 @@ In our allocated 15 minutes, we would like to take you on a trip following the w
 Mergin Maps: modern field data collection tool
 
 Record geospatial field data on your mobile device with ease. Collaborate with your team using instant sync with QGIS. Learn how to bring your QGIS project into the field on your mobile phone.
+
 9.20  Ilya Zverev, OSM
 
 Effective amateur geodata collection
