@@ -1,12 +1,12 @@
-# OpenSourceGeospatialSlovenija2023
+# OpenSourceGeospatialSlovenija2024
 Urednika: Tomaž Šturm in Alen Mangafić
 
 posnetek dogodka:
-https://youtu.be/h4cmV4GT-60
+https://youtu.be/h4cmV4GT-60 : posodobi
 
-Open Source Geospatial Slovenija 2023
+Open Source Geospatial Slovenija 2024
 
-19. oktober 2023 ob 8.30 uri
+17. oktober 2024 ob 8.30 uri
 Gozdarski inštitut Slovenije
 Večna pot 2, 1000 Ljubljana
 
@@ -14,75 +14,62 @@ Program dogodka
 
 8.30  Uvodni pozdrav
 
-8.40  Vicky Vergara
+8.40  Vasile Crăciunescu, Codrina Ilie, OSGeo
 
-pgRouting: to route or not to route that is the question
+Behind the scenes of the RO FOSS4G Community: A journey over a decade
 
-pgRouting suggests, the majority of the time, routing vehicles. But many problems do not involve routing. In this presentation, we will talk about some Sustainable Development Goals from the UN where pgRouting can be used as a tool to achieve a solution, and encourage you to try them out.
-(Povezava do preteklih delavnic: https://workshop.pgrouting.org/)
+In our allocated 15 minutes, we would like to take you on a trip following the winding roads of building a community, the Romanian geospatial community: geo-spatial.org. We want to share our story, beyond our geodata and knowledge portal, to the very core of the values and principles that have guided us through difficult times and made our overcame challenges even brighter. In our more than a decade of existence, we’ve organised 40 national FOSS workshop, a regional FOSS4G in 2013 and a global FOSS4G in 2019, we’ve initiated collaborative geo-related projects and managed to infuse the geospatial component in various non-spatial organisations, such as the ones in education or investigative journalism.
 
-9.00  Hans van der Kwast
+9.00  Patrick Mizera, Lutra Consulting Limited
 
-PCRaster tools for hydrological applications
+Mergin Maps: modern field data collection tool
 
-PCRaster provides raster map algebra functions and a dynamic modelling framework for hydrological modelling. With the PCRaster Tools plugin for QGIS you can use the functions from the Processing Toolbox and develop your own models and tools.
+Record geospatial field data on your mobile device with ease. Collaborate with your team using instant sync with QGIS. Learn how to bring your QGIS project into the field on your mobile phone.
+9.20  Ilya Zverev, OSM
 
-9.20  Matthias Kuhn
+Effective amateur geodata collection
 
-QField, efficient fieldwork made easy
+OpenStreetMap, a free and public geodata repository, has a different data model, and spawned hundreds of specialized apps, mostly invisible to proper cartographers. Let's see how data collection looks in OSM, and how their ways can inspire better data collection for your causes.
 
-Data is outside and that's where we collect it, regardless if it's in heat, rain or snow. We will take you on a tour through QField, a QGIS based app that delivers an easy to use and flexible user interface capable of delivering high precision data and synchronizing it within a team.
-Presentation link: https://slides.opengis.ch/talk-qfield/qfield.html#/
+9.40 Dino Horvat
 
-9.40 Miha Bevcer
+Copernicus Browser, Planet
 
-Monolit2go platforma: vzpostavitev končne rešitve za uporabnika s povsem odprtokodno infrastrukturo in orodji
-
-Monolit2go je univerzalna platforma narejena v celoti z odprtokodnimi orodji in namenjena za prikaz pohodniških, kolesarskih in drugih aktivnosti v naravi, katere temelj je natančen in ažuren topografski zemljevid Slovenije.
-MONOLIT informacijski sistemi d.o.o.
+The Copernicus Browser democratizes access to rich geospatial datasets, providing easy-to-use interface for finding and visualizing Earth observation data from the European Union's Copernicus program. The browser makes the data accessible without complex technical setups, fostering collaboration and supporting the development of geospatial applications.
 
 
-10.00 Mladen Kotarac
+10.00 Nejc Dougan, Flai
 
-Mapserver, spregledani starosta OSGeo skupnosti?!
-(Avtor ni podal soglasja za objavo predstavitve)
+FlaiHub - Platforma za dostop, pregledovanje in analizo odprtih podatkov aerolaserskih skreniranj
+
+Z aerolaserskim skeniranjem (ALS) se je spremenil način spremljanja površja in objektov v prostoru. V zadnjih letih so odprti podatki oblakov točk ALS postali dostopnejši po vsem svetu, tudi v Sloveniji. Razpoložljivost odprto dostopnih podatkov oblakov točk je nadvse dobrodošla, vendar sta lahko dostop in uporaba težavna. Datoteke s podatki oblakov točk so pogosto velike ter za vizualizacijo in obdelavo zahtevajo namenska orodja in zmogljivo strojno opremo. Da bi se lažje spopadli s temi izzivi, smo vzpostavili odprto platformo lidarskih podatkov Open Lidar Data Hub (https://hub.flai.ai/). Na platformi so dostopni podatki za več kot deset evropskih držav, tudi podatki Laserskega Skeniranja Slovenije (LSS) 2011-2015 in novega Cikličnega Laserskega Skeniranja Slovenije (CLSS) 2023.
 
 10.20 Odmor
 
+11.00 Rok Kamnik, FGPA
 
-10.50 Aleš Veršič
+Q(GIS) za potrebe različnih (bodočih) strokovnjakov
 
-Portal OPSI - hrbtenica ekosistema odprtih podatkov
-
-Udeleženci se bodo seznanili s Portalom OPSI in njegovimi funkcionalnostmi ter spoznali celotni ekosistem odprtih podatkov. Kako deluje, na kakšen način spodbujamo ponovno uporabo odprtih podatkov. Ter navezavo odprtih podatkov na aktualno temo - umetno inteligenco.
-Ministrstvo za digitalno preobrazbo
+Odprtokodni, brezplačni programi kot je QGIS v svet prostorskih podatkov poleg mlade generacije geodetov privabljajo tudi druge (bodoče) strokovnjake. Na drugi strani brezplačni prostorski podatki ponujajo številne opcije za strokovne analize in pridobivanje informacij o prostoru. Kombinacija obojega je ključ za trajnostne posege v prostor.
 
 
-11.10 Boštjan Kop
+11.20 Grega Makovec, ZRSVN
 
-Mobilna aplikacija DRAJV in spletni pregledovalnik podatkov
+QField – primer uporabe pri popisu invazivnih tujerodnih rastlin (ITV)
 
-Mobilna aplikacija DRAJV s pomočjo senzorjev, vgrajenih v pametne naprave, spremlja in ocenjuje vožnjo uporabnikov. Aplikacija beleži prekoračitve hitrosti, uporabo telefona ter sile pri pospeševanju, zaviranju in vožnji v ovinek. Uporabniki so skupno prevozili že več ko milijardo varnih kilometrov. Pridobljene podatke smo agregirali ter jih predstavili v okviru spletne GIS aplikacije, ki vključuje tudi druge podatke s področja cestno-prometne varnosti. Podatki so na voljo tudi za prenos za nadaljnje analize. Povezava do spletne aplikacije: https://drajv.triglav.si/zemljevid
-Boštjan Kop je strokovni vodja v službi za digitalno platformo v Zavarovalnici Triglav ter vodja razvoja mobilne aplikacije DRAJV. Pred trenutno vlogo je delo opravljal tudi na Nizozemskem pri mednarodnem podjetju HERE Technologies, ki se ukvarja z zbiranjem in obdelavo prostorskih podatkov ter razvojem navigacijskih rešitev.
+Za popis invazivnih tujerodnih rastlin smo v sklopu projekta LIFE OrnamentallAS zamenjali svinčnike in terensko beležko za pametni telefon in QFIeld. Sezona prvega popisa se zaključuje, ogledali si bomo QField projekt za popis ITV, njegove prednosti in slabosti, ter možnosti za izboljšavo za bodoče popise.
 
-11.30 Primož Skledar
+11.40 Matija Gerčer, FGG
 
-Uporaba LIDAR tehnologije za kartiranje in oceno škode po poplavah
+Uporaba platforme GeoNode
 
-LiDAR tehnologija lahko služi za natančno kartiranje in oceno škode v poplavljenih območjih. Osredotočili se bomo na postopek snemanja območij po naravni nesreči, analizo podatkov za identifikacijo prizadetih območij. Prikazali bomo tudi praktične primere iz prizadetih območij poplav 2023 v Sloveniji.
-Flycom Technologies d.o.o.
+GeoNode je prosto dostopna platforma za upravljanje, deljenje in vizualizacijo prostorskih podatkov, ki temelji na odprtokodnih tehnologijah in standardih OGC. Uporablja se za ustvarjanje GIS vsebin in omogoča sodelovanje pri zbiranju, urejanju in analizi prostorskih informaciji. Uporabnikom omogoča nalaganje, urejanje in objavo prostorskih podatkov, hkrati pa podpira integracijo s sistemi za upravljanje metapodatkov. V predstavitvi bomo predstavili platformo GeoNode in njegovo integracijo, razumevanje pa poglobili s primerom uporabe projekta S34I (financiranega s strani Evropske unije).
 
 
-11.50 Jure Bohanec
+12.00 Simon Koblar, Urbanistični inštitut RS
 
-Naravovarstveni vtičnik za QGIS - QNarcIS
+Prehod na odprtokodne GIS rešitve: Integracija QGIS in PostGIS v raziskovalne procese
 
-Kot del projekta LIFE NarcIS smo razvili poseben vtičnik za QGIS, imenovan QNarcIS. Vtičnik omogoča uporabnikom na enem mestu enostavno dostopati do številnih slojev, ki so ključni za učinkovito delo na področju varstva narave. Vtičnik trenutno vsebuje dve orodji: Izbirnik slojev omogoča izbor samo želenih slojev iz celotnega nabora, medtem ko orodje Pošlji poligon poljubno območje pripravi za nadaljnjo obdelavo v spletnem portalu NarcIS. Letos spomladi smo izvedli prvi sklop izobraževanj o vtičniku QNarcIS ter o orodju QGIS, zaradi izjemnega zanimanja bomo izobraževanje ponovili tudi novembra.
-Agencija RS za okolje - LIFE NarcIS 
+Na predavanju bomo predstavili, kako smo na Urbanističnem inštitutu Republike Slovenije uspešno prešli na uporabo odprtokodnih GIS-ov (QGIS in PostGIS). Skozi praktične primere bomo pokazali, kako smo te rešitve integrirali v naše delovne procese, obravnavali izzive pri implementaciji in prehodu s komercialnih rešitev, ter izpostavili prednosti, ki jih odprtokodna programska oprema prinaša pri obdelavi in analizi prostorskih podatkov.
 
-12.10 Tomaž Šturm
-
-Ustanovitev OSGEO društva v Sloveniji
-Ustanovna skupščina društva
-
-12.40 Zaključek dogodka
+12.20 Zaključek dogodka
