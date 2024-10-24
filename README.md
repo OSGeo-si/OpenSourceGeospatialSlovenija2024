@@ -1,7 +1,7 @@
 # OpenSourceGeospatialSlovenija2024
 Urednika: Tomaž Šturm in Alen Mangafić
 
-posnetek dogodka:
+Posnetek dogodka:
 https://youtu.be/h4cmV4GT-60 : posodobi
 
 Open Source Geospatial Slovenija 2024
