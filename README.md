@@ -11,6 +11,7 @@ Posnetek dogodka:
 [https://youtu.be/h4cmV4GT-60](https://youtu.be/h4cmV4GT-60) : posodobi
 
 ## Program dogodka
+
 ### 8.30  Uvodni pozdrav
 
 ### 8.40  Vasile Crăciunescu, Codrina Ilie, OSGeo
@@ -23,7 +24,8 @@ Record geospatial field data on your mobile device with ease. Collaborate with y
 
 ### 9.20  Ilya Zverev, OSM
 #### Effective amateur geodata collection
-OpenStreetMap, a free and public geodata repository, has a different data model, and spawned hundreds of specialized apps, mostly invisible to proper cartographers. Let's see how data collection looks in OSM, and how their ways can inspire better data collection for your causes. [https://www.youtube.com/watch?v=wxwpeTo7EVg](https://www.youtube.com/watch?v=wxwpeTo7EVg)
+enStreetMap, a free and public geodata repository, has a different data model, and spawned hundreds of specialized apps, mostly invisible to proper cartographers. Let's see how data collection looks in OSM, and how their ways can inspire better data collection for your causes.
+[https://www.youtube.com/watch?v=wxwpeTo7EVg](https://www.youtube.com/watch?v=wxwpeTo7EVg)
 
 ### 9.40 Dino Horvat
 #### Copernicus Browser, Planet
