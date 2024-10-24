@@ -1,14 +1,15 @@
-# OpenSourceGeospatialSlovenija2024
+# Open Source Geospatial Slovenija 2024
 Urednika: Tomaž Šturm in Alen Mangafić
+
+# Open Source Geospatial Slovenija: 3. konferenca
+## 2024-10-17 @ 8:30
+Gozdarski inštitut Slovenije,  
+Večna pot 2  
+1000 Ljubljana  
+
 
 Posnetek dogodka:
 https://youtu.be/h4cmV4GT-60 : posodobi
-
-Open Source Geospatial Slovenija 2024
-
-17. oktober 2024 ob 8.30 uri
-Gozdarski inštitut Slovenije
-Večna pot 2, 1000 Ljubljana
 
 Program dogodka
 
