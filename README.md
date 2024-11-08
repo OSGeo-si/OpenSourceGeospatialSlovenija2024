@@ -8,7 +8,7 @@ Večna pot 2
 1000 Ljubljana  
 
 Posnetek dogodka:
-[https://youtu.be/h4cmV4GT-60](https://youtu.be/h4cmV4GT-60) : posodobi
+[https://www.youtube.com/watch?v=2N41a9O6Fog](https://www.youtube.com/watch?v=2N41a9O6Fog)
 
 ## Program dogodka
 
